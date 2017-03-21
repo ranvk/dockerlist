@@ -8,7 +8,7 @@ cd dockerlist
 cd centos73_php71
 docker build -t="uker/centos73_php71" .
 
-**zabbix-web-server**
+**zabbix_web**
 docker build -t="uker/yii2zabbix" .
 
 **zabbix运行环境**
